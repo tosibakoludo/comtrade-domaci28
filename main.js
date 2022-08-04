@@ -12,7 +12,7 @@ function uzmiIzLS() {
     }
 }
 
-if (brPoseta > 1) {
+if (brPoseta > 2) {
     alert("Welcome back!");
 
     let username = localStorage.getItem("username");
