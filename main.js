@@ -32,7 +32,7 @@ if (brPoseta > 0) {
         }
     }
 } else {
-    alert("Welcome!")
+    alert("Welcome for the first time!")
 }
 
 const login = document.getElementById("login").addEventListener("click", ulogujSe);
